@@ -1,1 +1,2 @@
-# Programming-for-Problem-Solving-with-Python
+# COMPUER-PROJECT
+Oishi Banerjee
